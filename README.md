@@ -5,5 +5,10 @@
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=venancio0&layout=compact&hide_border=true&theme=gotham&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=venancio0&theme=gotham&hide_border=true&background=FFFFFF00">
   <br>
-
 </p>
+
+## LinkedIn
+
+<div>
+<a href="https://www.linkedin.com/in/gabriel-venancio-b91484197/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
